@@ -1,0 +1,16 @@
+PODS:
+  - Vast-Client-Swift (0.1.0)
+
+DEPENDENCIES:
+  - Vast-Client-Swift (from `../`)
+
+EXTERNAL SOURCES:
+  Vast-Client-Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Vast-Client-Swift: bef0c79b826eceabc7590f40e645f92755325c1e
+
+PODFILE CHECKSUM: bab99b9b1b8f85bcdbb8580eee1c65586058dcbc
+
+COCOAPODS: 1.6.0.beta.2
