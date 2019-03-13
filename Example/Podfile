@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Vast-Client-Swift_Example' do
+  pod 'Vast-Client-Swift', :path => '../'
+
+  target 'Vast-Client-Swift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
